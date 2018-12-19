@@ -81,7 +81,12 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 ### RSA
 ### AES
 ### DSA
+* [Make Sure DSA Signing Exponentiations Really are Constant-Time](http://delivery.acm.org/10.1145/2980000/2978420/p1639-pereida-garcia.pdf)
 ### ECDSA
+* [“Ooh Aah... Just a Little Bit” : A small amount of side channel can go a long way](https://eprint.iacr.org/2014/161.pdf)
+### PQC
+* [To BLISS-B or not to be - Attacking strongSwan’s Implementation of Post-Quantum Signatures](https://pure.tue.nl/ws/files/92210580/X490.pdf)
+* [Flush, Gauss, and Reload – A Cache Attack onthe BLISS Lattice-Based Signature Scheme](https://eprint.iacr.org/2016/300.pdf)
 # Defense
 ## Program Analysis
 ## Hardware
