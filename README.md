@@ -6,10 +6,12 @@
 * [S $ A: A shared cache attack that works across cores and defies VM sandboxing--and its application to AES](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.6655&rep=rep1&type=pdf)
 * [Prime+Abort: A Timer-Free High-Precision L3 Cache Attack using Intel TSX](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-disselkoen.pdf)
 * [Attack Directories, Not Caches: Side-Channel Attacks in a Non-Inclusive World](http://iacoma.cs.uiuc.edu/iacoma-papers/ssp19.pdf)
+* [Flush+ Flush: a fast and stealthy cache attack](https://arxiv.org/pdf/1511.04594.pdf)
 ### Branch Prediction
 * [On the Power of Simple Branch Prediction Analysis](http://cryptome.org/sbpa.pdf)
 * [Predicting Secret Keys Via Branch Prediction](https://eprint.iacr.org/2006/288.pdf)
 * [Jump Over ASLR: Attacking Branch Predictors to Bypass ASLR](http://www.cs.binghamton.edu/~secarch/micro16.pdf)
+* [BranchScope: A New Side-Channel Attack on Directional Branch Predictor](https://www.pbwcz.cz/Pocitacovy%20utok/CPU/BranchScopeAttack.pdf)
 #### Spectre
 * [Spectre Attacks: Exploiting Speculative Execution](https://spectreattack.com/spectre.pdf)
 * [ret2spec: Speculative Execution Using Return Stack Buffers](https://christian-rossow.de/publications/ret2spec-ccs2018.pdf)
@@ -19,6 +21,8 @@
 ### Instruction Cache
 * [New Results on Instruction Cache Attacks](https://pdfs.semanticscholar.org/b028/22567d583b89acc0b2bd5afa417ffa835d0a.pdf)
 * [Yet another MicroArchitectural Attack:: exploiting I-Cache](http://palms.ee.princeton.edu/system/files/icache_onur07.pdf)
+### Cache Bank
+* [CacheBleed: A Timing Attack on OpenSSL Constant Time RSA](https://eprint.iacr.org/2016/224.pdf)
 ### SGX
 * [CacheZoom: How SGX Amplifies the Power of Cache Attacks](https://eprint.iacr.org/2017/618.pdf)
 * [Software grand exposure: SGX cache attacks are practical](https://www.usenix.org/system/files/conference/woot17/woot17-paper-brasser.pdf)
