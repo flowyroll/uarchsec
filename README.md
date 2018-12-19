@@ -103,11 +103,10 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 ## Software
 ## Cache
 * [Strong and Efficient Cache Side-Channel Protection using Hardware Transactional Memory](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-gruss.pdf)
-* [CATalyst: Defeating Last-Level Cache Side Channel Attacks in Cloud Computing](http://palms.ee.princeton.edu/system/files/CATalyst_vfinal_correct.pdf)
+* [CATalyst: Defeating Last-Level Cache Side Channel Attacks in Cloud Computing]((http://ts.data61.csiro.au/publications/nicta_full_text/8984.pdf))
 ## Hardware
 ### DRAM
 ### Cache
-(http://ts.data61.csiro.au/publications/nicta_full_text/8984.pdf)
 * [RIC: Relaxed Inclusion Caches for Mitigating LLC Side-Channel Attacks](http://hodjat.me/pubs/dac17.pdf)
 
 
