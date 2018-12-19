@@ -9,7 +9,7 @@
 * [Last-Level Cache Side-Channel Attacks are Practical](http://palms.ee.princeton.edu/system/files/SP_vfinal.pdf)
 * [S $ A: A shared cache attack that works across cores and defies VM sandboxing--and its application to AES](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.6655&rep=rep1&type=pdf)
 * [Attack Directories, Not Caches: Side-Channel Attacks in a Non-Inclusive World](http://iacoma.cs.uiuc.edu/iacoma-papers/ssp19.pdf)
-* [Flush+ Flush: a fast and stealthy cache attack](https://arxiv.org/pdf/1511.04594.pdf)
+* [Flush+Flush: a fast and stealthy cache attack](https://arxiv.org/pdf/1511.04594.pdf)
 ### Branch Prediction
 * [On the Power of Simple Branch Prediction Analysis](http://cryptome.org/sbpa.pdf)
 * [Predicting Secret Keys Via Branch Prediction](https://eprint.iacr.org/2006/288.pdf)
@@ -102,7 +102,7 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 * [DATA – Differential Address Trace Analysis: Finding Address-based Side-Channels in Binaries](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-weiser.pdf)
 * [CacheD: Identifying Cache-Based Timing Channels in Production Software](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-shuai.pdf)
 ## Software
-## Cache
+### Cache
 * [Strong and Efficient Cache Side-Channel Protection using Hardware Transactional Memory](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-gruss.pdf)
 * [CATalyst: Defeating Last-Level Cache Side Channel Attacks in Cloud Computing](http://ts.data61.csiro.au/publications/nicta_full_text/8984.pdf)
 ## Hardware
