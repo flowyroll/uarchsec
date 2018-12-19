@@ -81,12 +81,12 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 ## Cryptoanalysis
 ### RSA
 * [Sliding right into disaster: Left-to-right sliding windows leak](https://eprint.iacr.org/2017/627.pdf)
-### AES
 ### DSA
 * [Make Sure DSA Signing Exponentiations Really are Constant-Time](http://delivery.acm.org/10.1145/2980000/2978420/p1639-pereida-garcia.pdf)
-* [May the Fourth Be With You: A Microarchitectural Side Channel Attack on Several Real-World Applications of Curve25519](https://obj.umiacs.umd.edu/papers_for_stories/genkin_ACMCCS2017.pdf)
 ### ECDSA
 * [“Ooh Aah... Just a Little Bit” : A small amount of side channel can go a long way](https://eprint.iacr.org/2014/161.pdf)
+* [May the Fourth Be With You: A Microarchitectural Side Channel Attack on Several Real-World Applications of Curve25519](https://obj.umiacs.umd.edu/papers_for_stories/genkin_ACMCCS2017.pdf)
+* [Return of the Hidden Number Problem](https://tches.iacr.org/index.php/TCHES/article/download/7337/6509)
 ### SM2
 * [Side-Channel Analysis of SM2: A Late-Stage Featurization Case Study](https://eprint.iacr.org/2018/651.pdf)
 ### PQC
@@ -95,14 +95,19 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 # Defense
 ## Program Analysis
 ### Static Analysis
-[Raccoon: Closing Digital Side-Channels through Obfuscated Execution](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-rane.pdf)
-[Verifying Constant-Time Implementations](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_almeida.pdf)
+* [Raccoon: Closing Digital Side-Channels through Obfuscated Execution](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-rane.pdf)
+* [Verifying Constant-Time Implementations](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_almeida.pdf)
 ### Dynamic Analysis
-[MicroWalk: A Framework for Finding Side Channels in Binaries](https://dl.acm.org/citation.cfm?id=3274741)
-[DATA – Differential Address Trace Analysis: Finding Address-based Side-Channels in Binaries](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-weiser.pdf)
+* [MicroWalk: A Framework for Finding Side Channels in Binaries](https://dl.acm.org/citation.cfm?id=3274741)
+* [DATA – Differential Address Trace Analysis: Finding Address-based Side-Channels in Binaries](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-weiser.pdf)
+## Software
+## Cache
+* [Strong and Efficient Cache Side-Channel Protection using Hardware Transactional Memory](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-gruss.pdf)
+* [CATalyst: Defeating Last-Level Cache Side Channel Attacks in Cloud Computing]
 ## Hardware
 ### DRAM
 ### Cache
-* [CATalyst: Defeating Last-Level Cache Side Channel Attacks in Cloud Computing](http://ts.data61.csiro.au/publications/nicta_full_text/8984.pdf)
+(http://ts.data61.csiro.au/publications/nicta_full_text/8984.pdf)
+* [RIC: Relaxed Inclusion Caches for Mitigating LLC Side-Channel Attacks](http://hodjat.me/pubs/dac17.pdf)
 
 
