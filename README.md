@@ -100,10 +100,11 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 ### Dynamic Analysis
 * [MicroWalk: A Framework for Finding Side Channels in Binaries](https://dl.acm.org/citation.cfm?id=3274741)
 * [DATA – Differential Address Trace Analysis: Finding Address-based Side-Channels in Binaries](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-weiser.pdf)
+* [CacheD: Identifying Cache-Based Timing Channels in Production Software](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang-shuai.pdf)
 ## Software
 ## Cache
 * [Strong and Efficient Cache Side-Channel Protection using Hardware Transactional Memory](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-gruss.pdf)
-* [CATalyst: Defeating Last-Level Cache Side Channel Attacks in Cloud Computing]((http://ts.data61.csiro.au/publications/nicta_full_text/8984.pdf))
+* [CATalyst: Defeating Last-Level Cache Side Channel Attacks in Cloud Computing](http://ts.data61.csiro.au/publications/nicta_full_text/8984.pdf)
 ## Hardware
 ### DRAM
 ### Cache
