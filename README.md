@@ -42,7 +42,7 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 ## DRAM
 * [DRAMA: Exploiting DRAM Addressing for Cross-CPU Attacks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_pessl.pdf)
 ### Rowhammer
-
+* [Another Flip in the Wall of Rowhammer Defenses](https://arxiv.org/pdf/1710.00551.pdf)
 ## GPU
 * [Rendered Insecure: GPU Side Channel Attacks are Practical](https://www.cs.ucr.edu/~zhiyunq/pub/ccs18_gpu_side_channel.pdf)
 * [Grand Pwning Unit: Accelerating Microarchitectural Attacks with the GPU](https://www.vusec.net/wp-content/uploads/2018/05/glitch.pdf)
