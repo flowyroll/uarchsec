@@ -79,11 +79,15 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 * [Leaky Wires: Information Leakage and Covert Communication Between FPGA Long Wires](http://www.cs.ox.ac.uk/files/9835/fpga.pdf)
 ## Cryptoanalysis
 ### RSA
+* [Sliding right into disaster: Left-to-right sliding windows leak](https://eprint.iacr.org/2017/627.pdf)
 ### AES
 ### DSA
 * [Make Sure DSA Signing Exponentiations Really are Constant-Time](http://delivery.acm.org/10.1145/2980000/2978420/p1639-pereida-garcia.pdf)
+* [May the Fourth Be With You: A Microarchitectural Side Channel Attack on Several Real-World Applications of Curve25519](https://obj.umiacs.umd.edu/papers_for_stories/genkin_ACMCCS2017.pdf)
 ### ECDSA
 * [“Ooh Aah... Just a Little Bit” : A small amount of side channel can go a long way](https://eprint.iacr.org/2014/161.pdf)
+### SM2
+* [Side-Channel Analysis of SM2: A Late-Stage Featurization Case Study](https://eprint.iacr.org/2018/651.pdf)
 ### PQC
 * [To BLISS-B or not to be - Attacking strongSwan’s Implementation of Post-Quantum Signatures](https://pure.tue.nl/ws/files/92210580/X490.pdf)
 * [Flush, Gauss, and Reload – A Cache Attack onthe BLISS Lattice-Based Signature Scheme](https://eprint.iacr.org/2016/300.pdf)
@@ -92,4 +96,6 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 ## Hardware
 ### DRAM
 ### Cache
+* [CATalyst: Defeating Last-Level Cache Side Channel Attacks in Cloud Computing](http://ts.data61.csiro.au/publications/nicta_full_text/8984.pdf)
+
 
