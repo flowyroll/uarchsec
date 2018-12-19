@@ -69,6 +69,7 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 * [Fantastic Timers and Where to Find Them: High-Resolution Microarchitectural Attacks in JavaScript](https://gruss.cc/files/fantastictimers.pdf)
 * [Rowhammer.js: A Remote Software-Induced Fault Attack in JavaScript](http://arxiv.org/abs/1507.06955)
 * [The Spy in the Sandbox: Practical Cache Attacks in JavaScript and their Implications](http://www.cs.columbia.edu/~simha/spyjs.ccs15.pdf)
+* [Drive-by Key-Extraction Cache Attacks from Portable Code](https://eprint.iacr.org/2018/119.pdf)
 ## GPU
 * [Rendered Insecure: GPU Side Channel Attacks are Practical](https://www.cs.ucr.edu/~zhiyunq/pub/ccs18_gpu_side_channel.pdf)
 * [Grand Pwning Unit: Accelerating Microarchitectural Attacks with the GPU](https://www.vusec.net/wp-content/uploads/2018/05/glitch.pdf)
@@ -76,7 +77,11 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 * [FPGA Side Channel Attacks without Physical Access](http://www.ecs.umass.edu/ece/tessier/ramesh-fccm18.pdf)
 * [FPGA-Based Remote Power Side-Channel Attacks](https://sites.coecis.cornell.edu/edsuh/files/2018/04/SP2018-FPGA-2m12dnp.pdf)
 * [Leaky Wires: Information Leakage and Covert Communication Between FPGA Long Wires](http://www.cs.ox.ac.uk/files/9835/fpga.pdf)
-
+## Cryptoanalysis
+### RSA
+### AES
+### DSA
+### ECDSA
 # Defense
 ## Program Analysis
 ## Hardware
