@@ -44,4 +44,7 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 ### Rowhammer
 
 ## GPU
+* [Rendered Insecure: GPU Side Channel Attacks are Practical](https://www.cs.ucr.edu/~zhiyunq/pub/ccs18_gpu_side_channel.pdf)
+* [Grand Pwning Unit: Accelerating Microarchitectural Attacks with the GPU](https://www.vusec.net/wp-content/uploads/2018/05/glitch.pdf)
+
 # Defense
