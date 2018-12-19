@@ -3,6 +3,7 @@
 ### Cache
 * [Cache Attacks and Countermeasures: the Case of AES](https://www.cs.tau.ac.il/~tromer/papers/cache.pdf)
 * [Cache missing for fun and profit](http://www.daemonology.net/papers/cachemissing.pdf)
+* [Cache-timing attacks on AES](https://cr.yp.to/antiforgery/cachetiming-20050414.pdf)
 ### Last-Level Cache (LLC)
 * [FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-yarom.pdf)
 * [Last-Level Cache Side-Channel Attacks are Practical](http://palms.ee.princeton.edu/system/files/SP_vfinal.pdf)
@@ -93,6 +94,12 @@ Transient Out-of-Order Execution](https://foreshadowattack.eu/foreshadow.pdf)
 * [Flush, Gauss, and Reload – A Cache Attack onthe BLISS Lattice-Based Signature Scheme](https://eprint.iacr.org/2016/300.pdf)
 # Defense
 ## Program Analysis
+### Static Analysis
+[Raccoon: Closing Digital Side-Channels through Obfuscated Execution](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-rane.pdf)
+[Verifying Constant-Time Implementations](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_almeida.pdf)
+### Dynamic Analysis
+[MicroWalk: A Framework for Finding Side Channels in Binaries](https://dl.acm.org/citation.cfm?id=3274741)
+[DATA – Differential Address Trace Analysis: Finding Address-based Side-Channels in Binaries](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-weiser.pdf)
 ## Hardware
 ### DRAM
 ### Cache
